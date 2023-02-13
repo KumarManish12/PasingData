@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App 2</string>
+    <string name="EnteryourName">Enter your Name</string>
+    <string name="Class">Class</string>
+    <string name="About">About</string>
+    <string name="WriteAnything">Write Anything</string>
+    <string name="Next">Next</string>
+    <string name="Notes">Notes</string>
+</resources>
